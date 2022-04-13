@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "flaminco",
+  "version": "${version}",
+
+  "name": "Flaminco",
+  "description": "This mod was created with the idea of the coin being currency.",
+  "authors": [
+    "The Smert King"
+  ],
+  "contact": {
+    "homepage": "https://thesmertnation.wordpress.com/",
+    "sources": "https://github.com/Pokebay77/Flaminco"
+  },
+
+  "license": "MIT",
+  "icon": "assets/flaminco/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.smertking.flaminco.Flaminco"
+    ]
+  },
+  "mixins": [
+    "flaminco.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
