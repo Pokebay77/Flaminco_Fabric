@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flaminco:gold_flaminco"
+    },
+    {
+      "item": "flaminco:gold_flaminco"
+    }
+  ],
+  "result": {
+    "item": "flaminco:diamond_flaminco",
+    "count": 1
+  }
+}
