@@ -23,4 +23,12 @@ You can also convert the coins back into diamond.
 
 1 Copper Flaminco = 1 Diamond
 
+
+
+You can also convert each Flaminco to their respective block
+
+9 Copper Flaminco = 1 Copper Flaminco Block (same with the other coins)
+
+1 Copper Flaminco Block = 9 Copper Flaminco
+
 Thats it!
