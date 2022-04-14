@@ -2,5 +2,12 @@
   "item.flaminco.copper_flaminco": "Copper Flaminco",
   "item.flaminco.iron_flaminco": "Iron Flaminco",
   "item.flaminco.gold_flaminco": "Gold Flaminco",
-  "item.flaminco.diamond_flaminco": "Diamond Flaminco"
+  "item.flaminco.diamond_flaminco": "Diamond Flaminco",
+
+  "block.flaminco.copperf_block" : "Copper Flaminco Block",
+  "block.flaminco.ironf_block" : "Iron Flaminco Block",
+  "block.flaminco.goldf_block" : "Gold Flaminco Block",
+  "block.flaminco.diamondf_block" : "Diamond Flaminco Block",
+
+  "itemGroup.flaminco.flaminco" : "Flaminco"
 }

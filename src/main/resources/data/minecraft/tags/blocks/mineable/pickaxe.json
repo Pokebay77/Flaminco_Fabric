@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "flaminco:copperf_block",
+    "flaminco:ironf_block",
+    "flaminco:goldf_block",
+    "flaminco:diamondf_block"
+  ]
+}

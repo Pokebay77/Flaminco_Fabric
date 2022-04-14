@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "flaminco:block/ironf_block" }
+  }
+}

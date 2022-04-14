@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "flaminco:block/goldf_block"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "flaminco:ironf_block"
+    }
+  ],
+  "result": {
+    "item": "flaminco:iron_flaminco",
+    "count": 9
+  }
+}
